@@ -92,8 +92,10 @@ eg : ```./client 127.0.0.1 3000 127.0.0.1 8000```
 [D] [grp_id] filename
 [C] [grp_id] filename
 D(Downloading), C(Complete)
+</br></br>
  **14. Stop sharing :**
- `stop_share <group_id> <file_name>`
- 
+ ```
+ stop_share <group_id> <file_name>
+ ``` 
 
    
